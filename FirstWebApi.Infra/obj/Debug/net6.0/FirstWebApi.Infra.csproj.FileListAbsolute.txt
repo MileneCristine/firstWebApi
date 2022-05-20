@@ -1,0 +1,12 @@
+C:\Users\milen\source\repos\FirstWebApi\FirstWebApi.Infra\bin\Debug\net6.0\FirstWebApi.Infra.deps.json
+C:\Users\milen\source\repos\FirstWebApi\FirstWebApi.Infra\bin\Debug\net6.0\FirstWebApi.Infra.dll
+C:\Users\milen\source\repos\FirstWebApi\FirstWebApi.Infra\bin\Debug\net6.0\FirstWebApi.Infra.pdb
+C:\Users\milen\source\repos\FirstWebApi\FirstWebApi.Infra\obj\Debug\net6.0\FirstWebApi.Infra.csproj.AssemblyReference.cache
+C:\Users\milen\source\repos\FirstWebApi\FirstWebApi.Infra\obj\Debug\net6.0\FirstWebApi.Infra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\milen\source\repos\FirstWebApi\FirstWebApi.Infra\obj\Debug\net6.0\FirstWebApi.Infra.AssemblyInfoInputs.cache
+C:\Users\milen\source\repos\FirstWebApi\FirstWebApi.Infra\obj\Debug\net6.0\FirstWebApi.Infra.AssemblyInfo.cs
+C:\Users\milen\source\repos\FirstWebApi\FirstWebApi.Infra\obj\Debug\net6.0\FirstWebApi.Infra.csproj.CoreCompileInputs.cache
+C:\Users\milen\source\repos\FirstWebApi\FirstWebApi.Infra\obj\Debug\net6.0\FirstWebApi.Infra.dll
+C:\Users\milen\source\repos\FirstWebApi\FirstWebApi.Infra\obj\Debug\net6.0\refint\FirstWebApi.Infra.dll
+C:\Users\milen\source\repos\FirstWebApi\FirstWebApi.Infra\obj\Debug\net6.0\FirstWebApi.Infra.pdb
+C:\Users\milen\source\repos\FirstWebApi\FirstWebApi.Infra\obj\Debug\net6.0\ref\FirstWebApi.Infra.dll

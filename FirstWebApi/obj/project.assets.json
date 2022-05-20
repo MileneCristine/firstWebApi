@@ -702,6 +702,16 @@
             "rid": "win"
           }
         }
+      },
+      "FirstWebApi.Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/FirstWebApi.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/FirstWebApi.Domain.dll": {}
+        }
       }
     }
   },
@@ -2046,10 +2056,16 @@
         "useSharedDesignerContext.txt",
         "version.txt"
       ]
+    },
+    "FirstWebApi.Domain/1.0.0": {
+      "type": "project",
+      "path": "../FirstWebApi.Domain/FirstWebApi.Domain.csproj",
+      "msbuildProject": "../FirstWebApi.Domain/FirstWebApi.Domain.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net6.0": [
+      "FirstWebApi.Domain >= 1.0.0",
       "Microsoft.EntityFrameworkCore >= 6.0.5",
       "Microsoft.EntityFrameworkCore.Design >= 6.0.5",
       "Microsoft.EntityFrameworkCore.SqlServer >= 6.0.5",
@@ -2083,7 +2099,11 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\milen\\source\\repos\\FirstWebApi\\FirstWebApi.Domain\\FirstWebApi.Domain.csproj": {
+              "projectPath": "C:\\Users\\milen\\source\\repos\\FirstWebApi\\FirstWebApi.Domain\\FirstWebApi.Domain.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

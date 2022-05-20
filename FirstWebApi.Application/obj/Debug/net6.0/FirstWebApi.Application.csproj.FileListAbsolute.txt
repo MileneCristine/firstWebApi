@@ -1,0 +1,12 @@
+C:\Users\milen\source\repos\FirstWebApi\FirstWebApi.Application\bin\Debug\net6.0\FirstWebApi.Application.deps.json
+C:\Users\milen\source\repos\FirstWebApi\FirstWebApi.Application\bin\Debug\net6.0\FirstWebApi.Application.dll
+C:\Users\milen\source\repos\FirstWebApi\FirstWebApi.Application\bin\Debug\net6.0\FirstWebApi.Application.pdb
+C:\Users\milen\source\repos\FirstWebApi\FirstWebApi.Application\obj\Debug\net6.0\FirstWebApi.Application.csproj.AssemblyReference.cache
+C:\Users\milen\source\repos\FirstWebApi\FirstWebApi.Application\obj\Debug\net6.0\FirstWebApi.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\milen\source\repos\FirstWebApi\FirstWebApi.Application\obj\Debug\net6.0\FirstWebApi.Application.AssemblyInfoInputs.cache
+C:\Users\milen\source\repos\FirstWebApi\FirstWebApi.Application\obj\Debug\net6.0\FirstWebApi.Application.AssemblyInfo.cs
+C:\Users\milen\source\repos\FirstWebApi\FirstWebApi.Application\obj\Debug\net6.0\FirstWebApi.Application.csproj.CoreCompileInputs.cache
+C:\Users\milen\source\repos\FirstWebApi\FirstWebApi.Application\obj\Debug\net6.0\FirstWebApi.Application.dll
+C:\Users\milen\source\repos\FirstWebApi\FirstWebApi.Application\obj\Debug\net6.0\refint\FirstWebApi.Application.dll
+C:\Users\milen\source\repos\FirstWebApi\FirstWebApi.Application\obj\Debug\net6.0\FirstWebApi.Application.pdb
+C:\Users\milen\source\repos\FirstWebApi\FirstWebApi.Application\obj\Debug\net6.0\ref\FirstWebApi.Application.dll
